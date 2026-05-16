@@ -1,0 +1,16 @@
+
+> react-example@0.0.0 dev
+> vite --port=3000 --host=0.0.0.0
+
+(node:61190) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Port 3000 is in use, trying another one...
+Port 3001 is in use, trying another one...
+Port 3002 is in use, trying another one...
+Port 3003 is in use, trying another one...
+
+  VITE v6.4.2  ready in 155 ms
+
+  ➜  Local:   http://localhost:3004/
+  ➜  Network: http://10.106.30.218:3004/
+  ➜  press h + enter to show help
